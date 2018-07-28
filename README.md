@@ -5,15 +5,16 @@ Last to last weekend I developed REST API in asp.net core 2.0 and I loved it.I w
 <br>
 <br>
 Following thing I noticed while I was working with GO.<br>
--Writing GO programs are like writing C programs, both follow imperative paradigm of programming.<br>
+-Writing GO programs feel like writing C programs(Nostalgia! lol)<br>
 -GO is developed to scale and give high performace.<br>
--Struct and pointers are quite famous in GO( Dude! no class and oops? Nope.I told you it follow imperative paradigm)<br> 
+-Struct and pointers are quite famous in GO( Dude! no class? Nope.)<br> 
 -Entire GO code is directly compiled into binaries(SEE! c and go are definitely siblings.lol)<br>
 -GO is so explicit.You just declare a variable in GO,don't use it and your code will never compile.<br>
 -Goroutines and channels are really awesome concepts.<br>
 -Use of channel to interact with different goroutines is pure joy.<br>
 -Dotnet world gives you that developer's productivity whereas I struggled with GO for 2 days to just connect GO code with mysql database.<br>
 -Go also has Web frameworks like Buffalo,IRIS etc.<br>
+-Go is multi-paradigm I feel.<br>
 -There are alot of concepts in GO which will be out of scope of this post(like concurrency,channel synchronization,defer etc) but I think you got the gist<br>
 <br>
 
