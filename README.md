@@ -18,5 +18,5 @@ Following thing I noticed while I was working with GO.<br>
 -There are alot of concepts in GO which will be out of scope of this post(like concurrency,channel synchronization,defer etc) but I think you got the gist<br>
 <br>
 
-TBH,I don't want to compare GO with my favourite .NET world because I understand each envirnoment will have its pros and cons.You need to understand your use case and pick one.Learning new concepts and new programming paradigm gives you different perpesctive/angle on same problem.So I would encourage you to pick new tool, build something out of it and use that experience in solving new problems.
+TBH,I don't want to compare GO with my favourite .NET world because I understand each envirnoment will have its pros and cons.You need to understand your use case and pick one.Learning new concepts and new programming paradigm gives you different  perspective /angle on same problem.So I would encourage you to pick new tool, build something out of it and use that experience in solving new problems.
 Happy Coding :)
